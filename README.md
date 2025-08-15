@@ -48,7 +48,7 @@ It provides insights into sales performance across different product categories,
 ---
 
 ## 📸 Dashboard Preview
-*(Add a screenshot of your dashboard here)*  
+*(![img_4.png](img_4.png))*  
 ```markdown
 ![Dashboard Preview](dashboard_screenshot.png)
 ```
@@ -56,5 +56,5 @@ It provides insights into sales performance across different product categories,
 ---
 
 ## 📬 Contact
-Created by **Yassin Waleed** – [LinkedIn Profile](https://www.linkedin.com/)  
+Created by **Yassin Waleed** – [LinkedIn Profile](https://www.linkedin.com/in/yassin-waleed-365a9623b/)  
 Feel free to reach out for collaboration or feedback!
