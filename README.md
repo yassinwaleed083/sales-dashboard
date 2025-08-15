@@ -45,13 +45,7 @@ It provides insights into sales performance across different product categories,
 3. Use the slicers to filter by **Region, Sub-Category, or Month**.
 4. Explore the interactive charts and KPIs.
 
----
 
-## 📸 Dashboard Preview
-*(![img_4.png](img_4.png))*  
-```markdown
-![Dashboard Preview](dashboard_screenshot.png)
-```
 
 ---
 
