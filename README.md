@@ -41,5 +41,5 @@ It provides insights into sales performance across different product categories,
 
 
 ## 📬 Contact
-Created by **Yassin Waleed** – [LinkedIn Profile](https://www.linkedin.com/)  
+Created by **Yassin Waleed** – [LinkedIn Profile](https://www.linkedin.com/in/yassin-waleed-365a9623b/)  
 Feel free to reach out for collaboration or feedback!
