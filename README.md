@@ -39,7 +39,22 @@ It provides insights into sales performance across different product categories,
 
 ---
 
+## 🚀 How to Use
+1. Download the file `sales analysis.xlsx`.
+2. Open in Microsoft Excel (2016 or later for best experience).
+3. Use the slicers to filter by **Region, Sub-Category, or Month**.
+4. Explore the interactive charts and KPIs.
+
+---
+
+## 📸 Dashboard Preview
+*(Add a screenshot of your dashboard here)*  
+```markdown
+![Dashboard Preview](dashboard_screenshot.png)
+```
+
+---
 
 ## 📬 Contact
-Created by **Yassin Waleed** – [LinkedIn Profile](https://www.linkedin.com/in/yassin-waleed-365a9623b/)  
+Created by **Yassin Waleed** – [LinkedIn Profile](https://www.linkedin.com/)  
 Feel free to reach out for collaboration or feedback!
